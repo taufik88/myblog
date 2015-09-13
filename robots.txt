@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://taufik88.github.io/myblog/sitemap.xml 
